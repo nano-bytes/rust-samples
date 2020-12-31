@@ -1,2 +1,5 @@
 # rust-samples
-Some rust examples
+
+This repo contains some **Rust** samples
+
+- [GDB](gdb)
